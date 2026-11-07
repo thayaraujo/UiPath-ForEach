@@ -1,0 +1,6 @@
+{
+  "Name": "ForEachLoop",
+  "ProjectType": "Process",
+  "Description": "In this project we are going to develop different ways to rename every invoices from a folder using different kind of For Each activities.",
+  "MainFile": "Main.xaml"
+}
